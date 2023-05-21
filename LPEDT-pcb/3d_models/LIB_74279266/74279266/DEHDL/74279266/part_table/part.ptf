@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '74279266'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "74279266" (!) = "", "BEADC1608X100N", "Ferrite Bead Chip", "710-74279266", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/74279266?qs=wElim4iM2phvO%252B60rsJRMg%3D%3D", "WE-CBF Ferrite Bead 0603 1000Ohm 200mA Wurth WE-CBF Series +/-25% Ferrite Multilayer SMD Inductor, 0603 Case, 200mA dc 600m Rdc", "", "1 mm"
+END_PART
+
+END.

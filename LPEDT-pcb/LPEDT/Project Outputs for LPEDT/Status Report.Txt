@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LPEDT.PrjPcb]
+   Generated File[LPEDT-RoundHoles.TXT]
+   Generated File[LPEDT-SlotHoles.TXT]
+   Generated File[LPEDT.LDP]
+   Generated File[LPEDT.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:12:03 PM On 2023-03-24

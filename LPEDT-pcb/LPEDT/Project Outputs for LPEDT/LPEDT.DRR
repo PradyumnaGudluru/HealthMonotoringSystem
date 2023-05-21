@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LPEDT.PcbDoc   2023-03-24  11:12:03 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LPEDT-RoundHoles.TXT
+ASCII SlotHoles File : LPEDT-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             21        PTH        80.11mm (3.15inch)
+T2      0.33mm (13mil)                                            Round             318       PTH        878.78mm (34.60inch)
+T3      0.5mm (20mil)                                             Slot              2         PTH        15.33mm (0.60inch)
+T4      0.55mm (22mil)                                            Slot              2         PTH        10.90mm (0.43inch)
+T5      0.84mm (33mil)                                            Round             1         PTH        0.00mm (0.00inch)
+T6      1mm (39mil)                                               Round             1         PTH        0.00mm (0.00inch)
+T7      1.016mm (40mil)                                           Round             16        PTH        89.47mm (3.52inch)
+T8      1.02mm (40mil)                                            Round             2         PTH        2.54mm (0.10inch)
+T9      1.1mm (43mil)                                             Round             5         PTH        58.78mm (2.31inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              368
+
+Total Processing Time (hh:mm:ss) : 00:00:00

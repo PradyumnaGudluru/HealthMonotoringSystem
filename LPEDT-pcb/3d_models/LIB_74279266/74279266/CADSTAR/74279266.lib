@@ -1,0 +1,16 @@
+.74279266 :1 ;WE-CBF Ferrite Bead 0603 1000Ohm 200mA Wurth WE-CBF Series +/-25% Ferrite Multilayer SMD Inductor, 0603 Case, 200mA dc 600m Rdc
+BEADC1608X100N
+*STM FB
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 74279266
+~!Mouser Part Number (710-74279266)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/74279266?qs=wElim4iM2phvO%252B60rsJRMg%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (74279266)
+~!Link Datasheet (-)
+~!Height (1mm)
+~!3D_Model (74279266)
+"74279266"
+1.1!U 2.1!U 

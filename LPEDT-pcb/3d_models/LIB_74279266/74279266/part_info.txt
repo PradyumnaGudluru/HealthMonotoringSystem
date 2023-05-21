@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=74279266
+PartCategory=Ferrite Bead
+PackageCategory=Ferrite Bead Chip
+PinCount=2
+Version=1.1
+Released=2016-03-14 16:48:43
+Downloaded=2023-03-16 03:56:26
+3D=Y
